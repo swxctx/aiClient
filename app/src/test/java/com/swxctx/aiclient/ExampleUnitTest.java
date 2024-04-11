@@ -1,4 +1,4 @@
-package com.wannengai.aiclient;
+package com.swxctx.aiclient;
 
 import org.junit.Test;
 

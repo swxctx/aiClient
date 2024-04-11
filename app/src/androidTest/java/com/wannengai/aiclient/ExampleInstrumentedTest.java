@@ -1,4 +1,4 @@
-package com.wannengai.aiclient;
+package com.swxctx.aiclient;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.wannengai.aiclient", appContext.getPackageName());
+        assertEquals("com.swxctx.aiclient", appContext.getPackageName());
     }
 }

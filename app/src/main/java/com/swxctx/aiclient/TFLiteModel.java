@@ -1,4 +1,4 @@
-package com.wannengai.aiclient;
+package com.swxctx.aiclient;
 
 import android.content.Context;
 import android.content.res.AssetFileDescriptor;

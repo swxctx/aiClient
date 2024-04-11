@@ -1,4 +1,4 @@
-package com.wannengai.aiclient;
+package com.swxctx.aiclient;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;
@@ -11,6 +11,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.swxctx.aiclient.R;
 
 public class MainActivity extends AppCompatActivity {
     private EditText etInput;

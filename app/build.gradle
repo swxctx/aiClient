@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.wannengai.aiclient'
+    namespace 'com.swxctx.aiclient'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.wannengai.aiclient"
+        applicationId "com.swxctx.aiclient"
         minSdk 26
         targetSdk 33
         versionCode 1
