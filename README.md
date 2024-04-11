@@ -39,4 +39,8 @@
     详见：项目中的assets目录
     ```
 
+- 运行效果
+
+    ![](./doc/image.png)
+
 本项目使用的是GPT-2模型，也可以从 [huggingface](https://huggingface.co/models) 下载其他模型集成，部分模型会会包含已经转换好的 `.tflite` 格式模型，自己转换的话可以参照 [gpt2_ro_tflite](https://github.com/swxctx/gpt2_ro_tflite)，不同的模型会有所不同，需要按照实际转换的模型调整脚本参数。
